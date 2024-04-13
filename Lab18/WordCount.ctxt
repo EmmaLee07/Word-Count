@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=WordCount
+comment1.params=filename
+comment1.target=WordCount(java.lang.String)
+comment2.params=word
+comment2.target=int\ getWordCount(java.lang.String)
+comment3.params=
+comment3.target=Set\ getDistinctWords()
+comment4.params=
+comment4.target=int\ countDistinctWords()
+comment5.params=text
+comment5.target=Map\ countWords(java.lang.String)
+comment6.params=filename
+comment6.target=java.lang.String\ readFile(java.lang.String)
+comment7.params=str
+comment7.target=java.lang.String\ sanitize(java.lang.String)
+numComments=8
